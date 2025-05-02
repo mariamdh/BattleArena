@@ -18,3 +18,10 @@ GAME LOOPS AND SYSTEMS
 
 GAME DEVELOPMENT TOOLS
 1. The level has been developed using the - Pixijs framework, Visual Studio Code, Adobe Photoshop and TexturePackerGUI, Node.js, Vite
+
+RUNNING THE PROJECT
+1. The project requires Node.js. 
+2. Open the project in Visual Studio Code.
+3. Open the terminal and type 'npm install pixi.js' to install the Pixijs package files.
+4. Next you need to setup your development server using vite. This can be done by type the following in the terminal 'npm install vite --save-dev'
+5. The game can now run in the browser typing 'npx vite'. Click on the link that appears to open the game in the browser,
